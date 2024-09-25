@@ -1,0 +1,49 @@
+<resources>
+
+    <string name="back_button">Back</string>
+
+    <string name="OnBoarding">OnBoarding</string>
+    <string name="Home">Home</string>
+    <string name="Splash">Splash</string>
+    <string name="app_name">Cupcake Maker</string>
+    <string name="choose_flavor">Escoja un sabor</string>
+    <string name="choose_pickup_date">Escoja una fecha de recolección</string>
+    <string name="order_summary">Resumen de la orden</string>
+    <string name="finish_order">¡Orden colocada!</string>
+
+    <string name="vanilla">Vainilla</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="red_velvet">Red Velvet</string>
+    <string name="salted_caramel">Caramelo Salado</string>
+    <string name="coffee">Café</string>
+    <string name="extra_instructions">Otras instrucciones</string>
+    <string name="pickup_instructions">Comentarios de recolección</string>
+
+    <string name="one_cupcake">1 cupcake</string>
+    <string name="six_cupcakes">6 cupcakes</string>
+    <string name="twelve_cupcakes">12 cupcakes</string>
+
+    <string name="order_cupcakes">Ordenar Cupcakes</string>
+    <string name="cupcake_price">Precio por cupcake $%s</string>
+
+    <string name="subtotal_price">Subtotal $%s</string>
+    <string name="cancel">Cancelar</string>
+    <string name="next">Siguiente</string>
+    <string name="end">Finalizar</string>
+    <string name="comback_init">Volver al inicio</string>
+
+    <plurals name="cupcakes">
+        <item quantity="one">%d cupcake</item>
+        <item quantity="other">%d cupcakes</item>
+    </plurals>
+
+    <string name="order_details">Cantidad: %1$s \nSabor: %2$s \nFecha de recolección: %3$s \nTotal: %4$s \nInstrucciones de preparación: %5$s \nInstrucciones de recolección: %6$s \n\n¡Gracias!</string>
+    <string name="new_cupcake_order">Nueva orden de Cupcakes</string>
+    <string name="quantity">Cantidad</string>
+    <string name="flavor">Sabor</string>
+    <string name="pickup_date">Fecha de recolección</string>
+    <string name="send">Enviar a otra App</string>
+    <string name="Thanks">"¡Gracias por tu compra!\nVuelve pronto"</string>
+
+
+</resources>
